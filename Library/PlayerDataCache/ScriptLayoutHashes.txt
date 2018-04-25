@@ -188,3 +188,12 @@ a8796ecdc9d5c260bbe32f30c4b10708 Assembly-CSharp-firstpass.dll:UnityStandardAsse
 69d7d01d14b2cb1bf7ea22ff94f3abfc Assembly-CSharp.dll:Vuforia.DefaultSmartTerrainEventHandler
 d2a2bd333db22f480a8589e167314ecc Assembly-CSharp.dll:Vuforia.UserDefinedTargetBuildingBehaviour
 7cac06ac0eaa7257b831c29e4455ce1b Assembly-CSharp.dll:Vuforia.VuforiaConfiguration
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.DragonController
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.TrumpController
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.BearController
+77ff57ac75d8f72b3919af4f714d04c2 Assembly-CSharp.dll:.CameraScroll
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.PeopleController
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.CabanConroller
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.OlenController
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.PigController
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.CameraFocusController
