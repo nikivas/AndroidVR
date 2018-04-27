@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="splinter" size="5.000000 6.666667" />
+    <ImageTarget name="tarakan" size="5.000000 6.666667" />
+    <ImageTarget name="SKEIT" size="5.000000 6.666667" />
+    <ImageTarget name="INVALID" size="5.000000 6.666667" />
+    <ImageTarget name="BAD_GIRL" size="5.000000 6.666667" />
+    <ImageTarget name="SHREDER" size="5.000000 6.666667" />
+    <ImageTarget name="eiprel" size="5.000000 6.666667" />
+    <ImageTarget name="Donatello" size="5.000000 6.666667" />
     <ImageTarget name="Bandits" size="5.000000 6.666667" />
     <ImageTarget name="Ninja" size="5.000000 6.666667" />
     <ImageTarget name="Back" size="5.000000 6.666667" />

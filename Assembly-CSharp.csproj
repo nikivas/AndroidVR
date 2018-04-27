@@ -60,6 +60,10 @@
      <Compile Include="Assets\OlenController.cs" />
      <Compile Include="Assets\PeopleController.cs" />
      <Compile Include="Assets\PigController.cs" />
+     <Compile Include="Assets\PoliceCarConroller.cs" />
+     <Compile Include="Assets\PoliceVertoletController.cs" />
+     <Compile Include="Assets\Ship_1_Controller.cs" />
+     <Compile Include="Assets\Ship2Controller.cs" />
      <Compile Include="Assets\TrumpController.cs" />
      <Compile Include="Assets\Vuforia\Scripts\BackgroundPlaneBehaviour.cs" />
      <Compile Include="Assets\Vuforia\Scripts\CloudRecoBehaviour.cs" />
@@ -87,6 +91,7 @@
      <Compile Include="Assets\Vuforia\Scripts\TurnOffWordBehaviour.cs" />
      <Compile Include="Assets\Vuforia\Scripts\UserDefinedTargetBuildingBehaviour.cs" />
      <Compile Include="Assets\Vuforia\Scripts\Utilities\VRIntegrationHelper.cs" />
+     <Compile Include="Assets\Vuforia\Scripts\VBDragonScript.cs" />
      <Compile Include="Assets\Vuforia\Scripts\VideoBackgroundBehaviour.cs" />
      <Compile Include="Assets\Vuforia\Scripts\VirtualButtonBehaviour.cs" />
      <Compile Include="Assets\Vuforia\Scripts\VuforiaBehaviour.cs" />
@@ -101,12 +106,14 @@
      <None Include="Assets\Vuforia\Shaders\VertexLitWithZ.shader" />
      <None Include="Assets\Vuforia\Shaders\RenderVideoBackground.shader" />
      <None Include="Assets\readme_SDK.txt" />
-     <None Include="Assets\StreamingAssets\Vuforia\AndroidDB.xml" />
+     <None Include="Assets\Cartoon lowpoly water well\readme.txt" />
+     <None Include="Assets\Baker House\Readme.txt" />
      <None Include="Assets\Vuforia\Shaders\VideoBackground.shader" />
      <None Include="Assets\license_3rdpartynotice.txt" />
      <None Include="Assets\Vuforia\Shaders\DepthMask.shader" />
      <None Include="Assets\Vuforia\Shaders\ClippingMask.shader" />
      <None Include="Assets\Vuforia\Shaders\BrightTexture.shader" />
+     <None Include="Assets\StreamingAssets\Vuforia\AndroidDB.xml" />
      <None Include="Assets\Vuforia\Shaders\Text3D.shader" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
